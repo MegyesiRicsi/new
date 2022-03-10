@@ -5,3 +5,9 @@ Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.csprojAssemblyReference.cache
 Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.csproj.CoreCompileInputs.cache
 Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.exe
 Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.pdb
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\bin\Debug\Vasmegye.exe.config
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\bin\Debug\Vasmegye.exe
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\bin\Debug\Vasmegye.pdb
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\obj\Debug\Vasmegye.csprojAssemblyReference.cache
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\obj\Debug\Vasmegye.exe
+\\10.0.1.1\tanulok\Megyesi.Richard\Vas mege\Vasmegye\obj\Debug\Vasmegye.pdb
