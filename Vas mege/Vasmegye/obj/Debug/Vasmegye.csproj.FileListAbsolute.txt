@@ -1,0 +1,7 @@
+Z:\Vas mege\Vasmegye\bin\Debug\Vasmegye.exe.config
+Z:\Vas mege\Vasmegye\bin\Debug\Vasmegye.exe
+Z:\Vas mege\Vasmegye\bin\Debug\Vasmegye.pdb
+Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.csprojAssemblyReference.cache
+Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.csproj.CoreCompileInputs.cache
+Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.exe
+Z:\Vas mege\Vasmegye\obj\Debug\Vasmegye.pdb
